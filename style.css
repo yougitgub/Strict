@@ -217,7 +217,10 @@ hr{
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: rgba(58, 82, 219, 0.39);
+   background-image:url('images/contactbg.png');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     justify-content: center;
     align-items: center;
 
